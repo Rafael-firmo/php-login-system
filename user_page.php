@@ -17,7 +17,7 @@ if (isset($_SESSION['email'])) {
 </head>
 <body>
 
-    <h1> Voce é um Administrador</h1> 
+    <h1> Voce é um Usuario</h1> 
     <button onclick="window.location.href = 'logout.php'"> Sair </button>
 </body>
 </html>
